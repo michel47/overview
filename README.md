@@ -19,4 +19,4 @@ api: {{site.apiid}}
 
 
 ____
-![status](https://www.repostatus.org/badges/latest/moved.svg)
+[![status](https://www.repostatus.org/badges/latest/moved.svg)](https://framagit.org/kin4/overview)
