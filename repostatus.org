@@ -1,0 +1,7 @@
+https://www.repostatus.org/badges/latest/moved.svg
+https://www.repostatus.org/badges/latest/concept.svg
+https://www.repostatus.org/badges/latest/WIP.svg
+https://www.repostatus.org/badges/latest/suspended.svg
+https://www.repostatus.org/badges/latest/active.svg
+https://www.repostatus.org/badges/latest/inactive.svg
+https://www.repostatus.org/badges/latest/unsupported.svg
