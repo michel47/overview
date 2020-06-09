@@ -6,14 +6,7 @@ date: "{{DATE}}"
 
 Welcome to the Krysthal Intelligence Network (a.k.a [KIN])
 
-we have 3 GITs repository sets:
-
-* [holoKIN](https://github.com/holoKin)
-* [holoTools](https://github.com/holoTools)
-* [holoTeam](https://github.com/holoTeam)
-
 api: {{site.apiid}}
-
 
 [KIN]: {{site.search}}=%23KIN
 
